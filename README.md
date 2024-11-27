@@ -8,3 +8,6 @@ Este análisis se realiza sobre un dataset proporcionado por **Kaggle**, titulad
 Este conjunto de datos ofrece una oportunidad para analizar diferentes aspectos relacionados con la rotación de empleados, como el rendimiento, la satisfacción laboral, los niveles de compensación y otros factores que podrían influir en la permanencia de los empleados dentro de la empresa.
 
 Puedes acceder al dataset en Kaggle a través del siguiente enlace: [IBM HR Analytics Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data)
+
+
+**REVISA EL [ANALISIS DE ROTACIÓN EN R](https://fmezabarrueto.github.io/HR-Attrition-Analysis/Analisis-Renuncia-Empleado.html)**
